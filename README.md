@@ -1,6 +1,3 @@
-# amc_utility_generic
-Generic utility library for AMC (Asset Management Center) with reusable Apex utilities, helpers, and common functions for Salesforce applications
-
 # AMC Utility Generic
 
 A comprehensive utility library providing reusable Apex components, helper classes, and common functions for AMC (Asset Management Center) Salesforce applications.
